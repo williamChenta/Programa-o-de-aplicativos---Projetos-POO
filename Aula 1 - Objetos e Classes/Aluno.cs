@@ -9,5 +9,6 @@ namespace Aula_1___Objetos_e_Classes
     class Aluno
     {
         public int matricula { get; set; }
+        public string nome { get; set; }
     }
 }
