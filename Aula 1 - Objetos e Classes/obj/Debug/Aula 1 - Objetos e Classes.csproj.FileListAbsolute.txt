@@ -1,0 +1,7 @@
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 1 - Objetos e Classes\bin\Debug\Aula 1 - Objetos e Classes.exe.config
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 1 - Objetos e Classes\bin\Debug\Aula 1 - Objetos e Classes.exe
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 1 - Objetos e Classes\bin\Debug\Aula 1 - Objetos e Classes.pdb
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 1 - Objetos e Classes\obj\Debug\Aula 1 - Objetos e Classes.csprojAssemblyReference.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 1 - Objetos e Classes\obj\Debug\Aula 1 - Objetos e Classes.csproj.CoreCompileInputs.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 1 - Objetos e Classes\obj\Debug\Aula 1 - Objetos e Classes.exe
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 1 - Objetos e Classes\obj\Debug\Aula 1 - Objetos e Classes.pdb
