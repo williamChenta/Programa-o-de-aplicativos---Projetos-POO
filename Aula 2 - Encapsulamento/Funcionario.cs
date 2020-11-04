@@ -8,6 +8,24 @@ namespace Aula_2___Encapsulamento
 {
     public class Funcionario
     {
+        public Funcionario() { }
+
+        public Funcionario(string _nome)
+        {
+            Nome = _nome;
+        }
+
+        public Funcionario(string _nome, int _idade)
+        {
+            Nome = _nome;
+            Idade = _idade;
+        }
+
+        public Funcionario(int idade, string _email)
+        {
+            email = _email;
+        }
+
         private string nome;
         public string Nome { 
             get
@@ -41,9 +59,25 @@ namespace Aula_2___Encapsulamento
             } 
         }
 
+        private string telefone;
+
+        public string Telefone
+        {
+            get { return telefone; }
+            set {
+                if (value.Length >= 10)
+                {
+                    telefone = value; 
+                } else
+                {
+                    throw new Exception("Telefone informado é invalido");
+                }
+            }
+        }
 
 
-        public string telefone;
+
+
         public double salario;
         public string cargo;
 

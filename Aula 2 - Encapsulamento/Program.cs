@@ -10,12 +10,17 @@ namespace Aula_2___Encapsulamento
     {
         static void Main(string[] args)
         {
-            Funcionario william = new Funcionario();
+            Funcionario william = new Funcionario("william");
+
+            Funcionario joao = new Funcionario("joao da silva", 44);
+            joao.Idade = 55;
+
+            Funcionario maria = new Funcionario();
 
             try
             {
                 william.Idade = 12;
-                william.Nome = "william";
+                william.cargo = "Professor";
             }
             catch (Exception ex)
             {
