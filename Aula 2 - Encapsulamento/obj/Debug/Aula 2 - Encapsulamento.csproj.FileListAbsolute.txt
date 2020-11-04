@@ -1,0 +1,7 @@
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 2 - Encapsulamento\obj\Debug\Aula 2 - Encapsulamento.csprojAssemblyReference.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 2 - Encapsulamento\obj\Debug\Aula 2 - Encapsulamento.csproj.CoreCompileInputs.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 2 - Encapsulamento\bin\Debug\Aula 2 - Encapsulamento.exe.config
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 2 - Encapsulamento\bin\Debug\Aula 2 - Encapsulamento.exe
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 2 - Encapsulamento\bin\Debug\Aula 2 - Encapsulamento.pdb
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 2 - Encapsulamento\obj\Debug\Aula 2 - Encapsulamento.exe
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 2 - Encapsulamento\obj\Debug\Aula 2 - Encapsulamento.pdb
