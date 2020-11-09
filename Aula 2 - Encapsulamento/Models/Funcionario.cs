@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aula_2___Encapsulamento
+namespace Aula_2___Encapsulamento.Models
 {
     public class Funcionario
     {

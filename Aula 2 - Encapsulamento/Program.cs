@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Aula_2___Encapsulamento.Models;
 
 namespace Aula_2___Encapsulamento
 {

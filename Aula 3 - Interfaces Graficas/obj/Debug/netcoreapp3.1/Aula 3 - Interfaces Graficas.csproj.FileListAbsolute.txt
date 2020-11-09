@@ -1,0 +1,16 @@
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\bin\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.exe
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\bin\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.deps.json
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\bin\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.runtimeconfig.json
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\bin\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.runtimeconfig.dev.json
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\bin\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.dll
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\bin\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.pdb
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.csproj.GenerateResource.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.AssemblyInfoInputs.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.AssemblyInfo.cs
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.csproj.CoreCompileInputs.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.dll
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.pdb
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.genruntimeconfig.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.csprojAssemblyReference.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Views.Form1.resources
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Views.Form2.resources
