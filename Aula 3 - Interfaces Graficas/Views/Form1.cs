@@ -23,7 +23,7 @@ namespace Aula_3___Interfaces_Graficas.Views
         public Form1()
         {
             InitializeComponent();
-            btnSalvar.Click += boasVindas;
+            btnSalvar.Click += salvar;
             cmbTimes.DataSource = times;
             tblTimes.DataSource = times;
             btnCadastro.Click += abrirTelaCadastro;
@@ -35,18 +35,21 @@ namespace Aula_3___Interfaces_Graficas.Views
             Visible = false;
         }
 
-        private void boasVindas(object sender, EventArgs e)
+        private void salvar(object sender, EventArgs e)
         {
             string nome = txtNome.Text;
 
-            if (!string.IsNullOrEmpty(nome))
-            {
-                MessageBox.Show($"Olá {nome}");
-            } else
-            {
-                MessageBox.Show("Por favor informe seu nome");
-            }
+            Time time = new Time();
 
+            try
+            {
+                time.Nome = txtNome.Text;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
         }
     }
 }

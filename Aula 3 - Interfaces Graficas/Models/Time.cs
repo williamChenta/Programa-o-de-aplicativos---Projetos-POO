@@ -6,12 +6,32 @@ namespace Aula_3___Interfaces_Graficas.Models
 {
     class Time
     {
-        public string nome { get; set; }
+        private string nome;
+
+        public string Nome
+        {
+            get { return nome; }
+            set {
+                if (value.Length >= 3)
+                {
+                    nome = value; 
+                } else
+                {
+                    throw new Exception("Nome inválido");
+                }
+            }
+        }
+
+        public Time()
+        {
+
+        }
+
         public int titulosMundiais { get; set; }
 
         public Time(string _nome, int _titulosMundiais)
         {
-            nome = _nome;
+            Nome = _nome;
             titulosMundiais = _titulosMundiais; 
         }
 
