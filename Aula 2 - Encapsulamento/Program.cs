@@ -11,12 +11,19 @@ namespace Aula_2___Encapsulamento
     {
         static void Main(string[] args)
         {
-            Funcionario william = new Funcionario("william");
+            Funcionario william = new Funcionario();
 
-            Funcionario joao = new Funcionario("joao da silva", 44);
+
+            Console.WriteLine("informe seu nome: ");
+            var nome = Console.ReadLine();
+
+
+            Funcionario joao = new Funcionario(nome, 44);
             joao.Idade = 55;
 
             Funcionario maria = new Funcionario();
+            
+
 
             try
             {

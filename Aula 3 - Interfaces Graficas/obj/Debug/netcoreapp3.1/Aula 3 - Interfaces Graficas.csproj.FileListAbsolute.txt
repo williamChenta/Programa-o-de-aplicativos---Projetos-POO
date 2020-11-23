@@ -14,3 +14,7 @@ D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - I
 D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula 3 - Interfaces Graficas.csprojAssemblyReference.cache
 D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Views.Form1.resources
 D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Views.Form2.resources
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Views.CadastroJogadores.resources
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Views.BolaOuroFifa.resources
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Views.ResultadoBolaOuro.resources
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 3 - Interfaces Graficas\obj\Debug\netcoreapp3.1\Aula_3___Interfaces_Graficas.Properties.Resources.resources

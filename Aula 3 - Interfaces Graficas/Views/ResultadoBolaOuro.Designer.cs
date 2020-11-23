@@ -1,6 +1,6 @@
 ﻿namespace Aula_3___Interfaces_Graficas.Views
 {
-    partial class Form2
+    partial class ResultadoBolaOuro
     {
         /// <summary>
         /// Required designer variable.
@@ -29,37 +29,43 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.btnVoltar = new System.Windows.Forms.Button();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(144, 44);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.Location = new System.Drawing.Point(197, 34);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(436, 50);
+            this.label1.Size = new System.Drawing.Size(355, 47);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Tela de cadastro de times";
+            this.label1.Text = "Resultado da votação";
             // 
-            // btnVoltar
+            // tableLayoutPanel1
             // 
-            this.btnVoltar.Location = new System.Drawing.Point(281, 130);
-            this.btnVoltar.Name = "btnVoltar";
-            this.btnVoltar.Size = new System.Drawing.Size(191, 90);
-            this.btnVoltar.TabIndex = 1;
-            this.btnVoltar.Text = "Voltar";
-            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.tableLayoutPanel1.AutoScroll = true;
+            this.tableLayoutPanel1.AutoSize = true;
+            this.tableLayoutPanel1.ColumnCount = 2;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(182, 98);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 1;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 234F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(384, 53);
+            this.tableLayoutPanel1.TabIndex = 1;
             // 
-            // Form2
+            // ResultadoBolaOuro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnVoltar);
+            this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.label1);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "ResultadoBolaOuro";
+            this.Text = "ResultadoBolaOuro";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -68,6 +74,6 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnVoltar;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
     }
 }

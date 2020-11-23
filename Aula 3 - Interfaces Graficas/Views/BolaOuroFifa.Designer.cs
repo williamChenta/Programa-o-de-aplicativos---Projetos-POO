@@ -1,6 +1,6 @@
 ﻿namespace Aula_3___Interfaces_Graficas.Views
 {
-    partial class Form2
+    partial class BolaOuroFifa
     {
         /// <summary>
         /// Required designer variable.
@@ -29,37 +29,46 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.btnVoltar = new System.Windows.Forms.Button();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(144, 44);
+            this.label1.Location = new System.Drawing.Point(100, 103);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(436, 50);
+            this.label1.Size = new System.Drawing.Size(206, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Tela de cadastro de times";
+            this.label1.Text = "Selecione o jogador que deseja voltar:";
             // 
-            // btnVoltar
+            // comboBox1
             // 
-            this.btnVoltar.Location = new System.Drawing.Point(281, 130);
-            this.btnVoltar.Name = "btnVoltar";
-            this.btnVoltar.Size = new System.Drawing.Size(191, 90);
-            this.btnVoltar.TabIndex = 1;
-            this.btnVoltar.Text = "Voltar";
-            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(312, 100);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(328, 23);
+            this.comboBox1.TabIndex = 1;
             // 
-            // Form2
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(312, 143);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // BolaOuroFifa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnVoltar);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label1);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "BolaOuroFifa";
+            this.Text = "BolaOuroFifa";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -68,6 +77,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnVoltar;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Button button1;
     }
 }

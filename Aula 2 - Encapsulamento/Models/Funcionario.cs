@@ -9,7 +9,7 @@ namespace Aula_2___Encapsulamento.Models
     public class Funcionario
     {
         public Funcionario() { }
-
+        
         public Funcionario(string _nome)
         {
             Nome = _nome;
