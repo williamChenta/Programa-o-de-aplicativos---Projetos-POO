@@ -1,0 +1,7 @@
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 4 - Herança\bin\Debug\Aula 4 - Herança.exe.config
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 4 - Herança\bin\Debug\Aula 4 - Herança.exe
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 4 - Herança\bin\Debug\Aula 4 - Herança.pdb
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 4 - Herança\obj\Debug\Aula 4 - Herança.csprojAssemblyReference.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 4 - Herança\obj\Debug\Aula 4 - Herança.csproj.CoreCompileInputs.cache
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 4 - Herança\obj\Debug\Aula 4 - Herança.exe
+D:\aulas-apl-2020\noturno\Programação de aplicativos - Projetos POO\Aula 4 - Herança\obj\Debug\Aula 4 - Herança.pdb
